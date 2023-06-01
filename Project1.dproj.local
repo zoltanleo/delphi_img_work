@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.853,=C:\proj\armdoc_4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,=C:\proj\armdoc_4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,C:\proj\test_delphi\04\Unit1.dfm=C:\proj\armdoc_4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,C:\proj\test_delphi\04\Unit1.dfm=C:\proj\test_delphi\08_img\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,C:\proj\test_delphi\04\Unit1.pas=C:\proj\armdoc_4\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,C:\proj\test_delphi\04\Unit1.pas=C:\proj\test_delphi\08_img\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,C:\proj\test_delphi\04\Project1.dproj=C:\proj\armdoc_4\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,C:\proj\test_delphi\04\Project1.dproj=C:\proj\test_delphi\08_img\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
